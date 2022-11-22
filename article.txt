@@ -1,4 +1,4 @@
 Some random text
 
 Initial commit - check
-Codeowners block - checking...
+Codeowners block - checking... doesn't look like it's restricting it via codeowners?
